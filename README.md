@@ -56,7 +56,7 @@ ESP32, bilgisayardan gelen frekans bant değerlerini okur, verileri yumuşatır 
 - Seri porttan gelen veriler, 32 adet tam sayı değerini (0-100 arası) virgülle ayrılmış şekilde içermelidir. Örnek:  
   `10,20,15,5,30,45,...\n`  
 - OLED ekran I2C adresi `0x3C` olarak ayarlanmıştır.  
-- Yumuşatma faktörü 0.3, hız ve akıcılık için ayarlanmıştır. İstersen değiştirebilirsin.  
+- Yumuşatma faktörü 0.3, hız ve akıcılık için ayarlanmıştır. İstersen değiştirebilirsiniz.  
 
 ---
 
