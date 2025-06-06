@@ -1,3 +1,10 @@
+/*
+  MIT License
+  Copyright (c) 2025 Emirtopav
+  
+  This code is licensed under the MIT License.
+  See LICENSE file for details.
+*/
 #include <Wire.h>
 #include <Adafruit_SSD1306.h>
 #include <Adafruit_GFX.h>
